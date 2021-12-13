@@ -1,0 +1,6 @@
+framework module Pods_videEditor {
+  umbrella header "Pods-videEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}
